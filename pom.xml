@@ -89,6 +89,7 @@
   </dependencies>
 
   <build>
+    <finalName>countries</finalName>
     <plugins>
       <!--PLUGIN PROPERTIES-->
       <plugin>
