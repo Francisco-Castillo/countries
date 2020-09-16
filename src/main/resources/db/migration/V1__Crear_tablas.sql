@@ -1,0 +1,7 @@
+CREATE TABLE pais(
+	id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	nombrelargo VARCHAR(80) NOT NULL,
+	nombrecorto VARCHAR(50) NOT NULL,
+	abreviatura VARCHAR(5) NOT NULL,
+	capital VARCHAR(50) NOT NULL
+);
